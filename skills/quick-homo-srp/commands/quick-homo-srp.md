@@ -264,6 +264,6 @@ After launching all instances:
 
 - **No auto-analysis**: After completion, the user manually reviews and synthesizes.
 - **No timeout**: If an instance hangs, the user kills it manually.
-- **MCP servers**: Do not disable. Codex config already has Serena/Cipher/Sequential.
+- **MCP servers**: Do not disable. Codex config already has Serena/Sequential.
 - **Reasoning effort**: Configurable via natural language (`medium`, `high`, `xhigh`). Default: Codex CLI default (recommended: `xhigh`).
 - **SRP integrity**: §1-§7 are identical across instances. Only §8 (output path) differs.
